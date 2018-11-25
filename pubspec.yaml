@@ -2,7 +2,9 @@
 name: sql_builder
 version: 0.0.1
 description: >-
-  SQL Query Builder for Dart
+  A fluent interface for constructing SQL queries using a programmatic
+  domain-specific language instead of brittle string interpolation and
+  concatenation.
 author: Arto Bendiken <arto@bendiken.net>
 homepage: https://github.com/drydart/sql_builder.dart
 documentation:
